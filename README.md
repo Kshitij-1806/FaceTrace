@@ -1,6 +1,6 @@
 # FaceTrace — Video Face Detection
 
-> Upload a video. Enroll faces. Get back timestamps and screenshots of every moment a known person appears — powered by AWS Rekognition.
+> Upload a video. Enroll faces. Get back timestamps and screenshots of every moment a known person appears powered by AWS Rekognition.
 
 ---
 
